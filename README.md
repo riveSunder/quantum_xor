@@ -11,10 +11,10 @@ We all know that a single layer perceptron (or a perceptron with multiple linear
 
 Of course, computing XOR in a differentiable quantum circuit/quantum neural network is no more practical than training a multilayer perceptron to do the same classically. Instead we can use the CNOT gate, a two-qubit quantum gate that flips the second qubit when the first is set. The 4 by 4 matrix for CNOT can be written as: 
 
-<img src="figs/cnot.png">
+<img src="./figs/cnot.png">
 Writing the truth table for this operation we have: 
 
-<img src="figs/truth_table.png">
+<img src="./figs/truth_table.png">
 
 
 
